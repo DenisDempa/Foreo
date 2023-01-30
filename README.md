@@ -1,2 +1,0 @@
-# Foreo
-Foreo Task
